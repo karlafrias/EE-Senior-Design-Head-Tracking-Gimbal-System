@@ -7,7 +7,7 @@ Senior Design
 April 2026  
 
 ## Team Members
-- Karla Frias
+- Karla McKenzie
 - Jacob Shillingburg
 - Martins Ugoh
 
